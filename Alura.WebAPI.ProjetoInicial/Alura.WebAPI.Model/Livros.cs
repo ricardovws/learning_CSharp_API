@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.Xml.Serialization;
 
@@ -26,7 +27,6 @@ namespace Alura.ListaLeitura.Modelos
         public string Autor { get; set; }
         public string Lista { get; set; }
 
-        
     }
 
     public class LivroUpload
