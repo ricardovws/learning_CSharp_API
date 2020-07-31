@@ -1,5 +1,4 @@
-﻿using Alura.ListaLeitura.Persistencia;
-using Alura.ListaLeitura.Modelos;
+﻿using Alura.ListaLeitura.Modelos;
 using Alura.ListaLeitura.WebApp.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
